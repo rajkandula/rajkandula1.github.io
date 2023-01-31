@@ -1,0 +1,33 @@
+/* Add styles for the resume section */
+.resume {
+  font-family: Arial, sans-serif;
+  margin: 30px auto;
+  width: 800px;
+  text-align: center;
+}
+
+/* Add styles for the resume heading */
+.resume h1 {
+  font-size: 36px;
+  color: #111;
+  margin-bottom: 20px;
+}
+
+/* Add styles for the resume sections */
+.resume-section {
+  margin-bottom: 30px;
+}
+
+/* Add styles for the resume section heading */
+.resume-section h2 {
+  font-size: 24px;
+  color: #111;
+  margin-bottom: 10px;
+}
+
+/* Add styles for the resume section content */
+.resume-section p {
+  font-size: 18px;
+  color: #333;
+  line-height: 1.5;
+}
