@@ -1,0 +1,128 @@
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!-- <link rel="stylesheet" href="/public/css/styles.css" /> -->
+    <style>
+      /* Add styles for the resume section */
+      .resume {
+        font-family: Arial, sans-serif;
+        margin: 30px auto;
+        width: 800px;
+        text-align: center;
+      }
+
+      /* Add styles for the resume heading */
+      .resume h1 {
+        font-size: 36px;
+        color: #111;
+        margin-bottom: 20px;
+      }
+
+      /* Add styles for the resume sections */
+      .resume-section {
+        margin-bottom: 30px;
+      }
+
+      /* Add styles for the resume section heading */
+      .resume-section h2 {
+        font-size: 24px;
+        color: #111;
+        margin-bottom: 10px;
+      }
+
+      /* Add styles for the resume section content */
+      .resume-section p {
+        font-size: 18px;
+        color: #333;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="resume">
+      <!-- Add your resume heading -->
+      <a href="about.html"> <h1>Charan Raj Kandula</h1></a>
+     
+
+  <h3>+1 551-256-0939 |   ckandul1@stevens.edu |   Hoboken (New York)</h3>
+ 
+ 
+  <a href="https://www.linkedin.com/in/kandula-charan-raj/" target="_blank">  <h3>  https://www.linkedin.com/in/kandula-charan-raj/ </h3></a>
+
+      <!-- Add your resume sections, e.g. summary, experience, education, etc. -->
+      <div class="resume-section">
+        <h2>Summary</h2>
+        <p>
+            Highly motivated computer science professional seeking a role in a company where I can utilize my technical skills and knowledge. Aim to work hard, stay focused and contribute to the company by learning, innovating, solving problems, and supporting its reputation.
+        </p>
+      </div>
+
+      <div class="resume-section">
+        <h2>Education</h2>
+        <p>
+          Stevens Institute of Technology, Master’s in Computer Science, 2022-Present </br>
+          Mahatma Gandhi Institute of Technology, Bachelor of Technology in Computer Science, 2016 – 2020 </br>
+          • Cumulative GPA: 6.8 / 10 </br>
+          Sri Chaitanya Junior college, Intermediate 12th std, 2014 – 2016</br>
+          • Percentage: 92.3/100 </br>
+          Triveni Talent School, 10th std, 2014 </br>
+          • Cumulative GPA: 8.3/10</br>
+        </p>
+      </div>
+      <div class="resume-section">
+        <h2>Skills</h2>
+        <p>
+            Technical Skills: </br>
+            •	Java, Python, SQL, Data Structures, Android Studio, HTML, CSS, Node Js</br>
+            •	Languages: Fluent in English and Hindi</br>
+            Certifications & Training: </br>
+            •	Certification Course on Application Development using Advance Java.</br>
+            •	Certificate Course on Search Engine Optimization. </br>
+            Awards: </br>
+            •	Received Elite Certification on Python from NPTEL. </br>
+            •	Organized Technical Events in College.</br>
+            •	Developed Mobile Applications and Published them in Play Store.</br>
+            
+        </p>
+      </div>
+      <div class="resume-section">
+        <h2>Experience</h2>
+        <p>
+            Company Name: Synactive India Pvt Ltd.  </br>
+Location: Hyderabad, TS/India  </br>
+Job Role: Application Developer Intern (6 Months) and Jr. Software Developer – I  </br>
+Duration: Jan 27, 2020-Jan 21, 2021  </br>
+•	Proficient in Android open-source projects  </br>
+•	Strong experience in designing and developing applications using Android SDK and Android Studio  </br>
+•	Worked on customizing different widgets such as buttons, toast messages, and dialog boxes  </br>
+•	Successfully handled daily standup meetings in an agile environment  </br>
+
+
+
+        </p>
+      </div>
+
+      <div class="resume-section">
+        <h2>Projects</h2>
+        <p>
+            
+            Online Course Website Development: </br>
+            Online Course Website Development: Developed an online course website using Node.js with features for student and instructor registration and course enrollment </br>
+            <a href="https://github.com/rajkandula/OnlineCourseWebsite" target="_blank">(Reference: https://github.com/rajkandula/OnlineCourseWebsite) </a> </br>
+            College Application project: </br>
+            College Application: Developed and published a college application with a rich UI for accessing college data 
+            <a href="https://play.google.com/store/apps/details?id=com.achievers.jntuhresults&hl=en_US&gl=US" target="_blank"> (Reference: https://github.com/twCharan/JntuhResultsApplication)</a> </br>
+            Single-page Resume Application Project: create a single-page resume with a simple user interface. </br>
+            <a href="https://play.google.com/store/apps/details?id=com.achievers.resumebuilder" target="_blank">(Reference: https://play.google.com/store/apps/details?id=com.achievers.resumebuilder)</a> </br>
+            Community Application Project: Developed an app for the community people for organizing their data in the App </br>
+            <a href="https://play.google.com/store/apps/details?id=com.achievers.acaministry" target="_blank"> (Reference: https://play.google.com/store/apps/details?id=com.achievers.acaministry ) </a></br>
+
+        </p>
+      </div>
+
+     
+    </div>
+  </body>
+</html>
+ -->
